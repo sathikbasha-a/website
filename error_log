@@ -1,0 +1,5 @@
+[04-Jan-2025 07:20:32 UTC] PHP Warning:  Undefined array key "message" in /home/sathoibe/public_html/send-mail.php on line 12
+[04-Jan-2025 07:20:34 UTC] PHP Warning:  Undefined array key "name" in /home/sathoibe/public_html/send-mail.php on line 9
+[04-Jan-2025 07:20:34 UTC] PHP Warning:  Undefined array key "email" in /home/sathoibe/public_html/send-mail.php on line 10
+[04-Jan-2025 07:20:34 UTC] PHP Warning:  Undefined array key "subject" in /home/sathoibe/public_html/send-mail.php on line 11
+[04-Jan-2025 07:20:34 UTC] PHP Warning:  Undefined array key "message" in /home/sathoibe/public_html/send-mail.php on line 12
